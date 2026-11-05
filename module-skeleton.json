@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-revenue-lifecycle-dart-mobile",
+  "capabilityKey": "liberusoftware/module-crm-revenue-lifecycle",
+  "presentation": "dart-mobile",
+  "package": "module_crm_revenue_lifecycle_dart_mobile",
+  "foundation": "module-boilerplate-dart-mobile",
+  "foundationCommit": "0656c212b36ef4f8ffd6fc74db4ac541268e7d31",
+  "canonicalPlan": "projects/crm/nextjs/revenue-lifecycle.md",
+  "presentationPlan": "projects/crm/features/revenue-lifecycle.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
